@@ -1,0 +1,189 @@
+{
+  "success": "true",
+  "status": 200,
+  "analytics": [
+    {
+      "graph": "line-chart",
+      "title": "Profits by Month",
+      "x-axis": [
+        "Jan",
+        "Feb",
+        "Mar",
+        "Apr",
+        "May",
+        "Jun",
+        "Jul",
+        "Aug"
+      ],
+      "y-axis": [
+        2,
+        3,
+        4,
+        3,
+        4,
+        6,
+        3,
+        2
+      ],
+      "data": [
+
+      ],
+      "x-label": "Profits in Lakhs",
+      "y-label": "Month",
+      "x-unit": " Lakh Rupees",
+      "y-unit": "",
+      "position": 1,
+      "width": 6,
+      "module": 2,
+      "filters": [
+
+      ]
+    },
+    {
+      "graph": "bar-chart",
+      "title": "Profits by Month",
+      "x-axis": [
+        "Jan",
+        "Feb",
+        "Mar",
+        "Apr",
+        "May",
+        "Jun",
+        "Jul",
+        "Aug"
+      ],
+      "y-axis": [
+        2,
+        3,
+        4,
+        3,
+        4,
+        6,
+        3,
+        2
+      ],
+      "data": [
+
+      ],
+      "x-label": "Profits in Lakhs",
+      "y-label": "Month",
+      "x-unit": " Lakh Rupees",
+      "y-unit": "",
+      "position": 2,
+      "width": 6,
+      "module": 3,
+      "filters": [
+
+      ]
+    },
+    {
+      "graph": "pie-chart",
+      "title": "Cost breakdown this Quarter",
+      "x-axis": [
+        "Spares",
+        "People",
+        "Software",
+        "Reimbursements",
+        "Others"
+      ],
+      "y-axis": [
+        12,
+        34,
+        4,
+        27,
+        23
+      ],
+      "data": [
+
+      ],
+      "x-label": "%",
+      "y-label": "Expenses",
+      "x-unit": "",
+      "y-unit": "",
+      "position": 3,
+      "width": 12,
+      "module": 1,
+      "filters": [
+
+      ]
+    },
+    {
+      "graph": "heat-map",
+      "title": "Work load Heatmap",
+      "x-axis": [
+        "Sun",
+        "Mon",
+        "Tue",
+        "Wed",
+        "Thu",
+        "Fri",
+        "Sat"
+      ],
+      "y-axis": [
+        "Jan",
+        "Feb",
+        "Mar"
+      ],
+      "data": [
+        [
+          0,
+          12,
+          8,
+          23,
+          12,
+          3,
+          7
+        ],
+        [
+          29,
+          78,
+          3,
+          89,
+          89,
+          13,
+          2
+        ],
+        [
+          12,
+          84,
+          3,
+          8,
+          1,
+          23,
+          0
+        ]
+      ],
+      "x-label": "Month",
+      "y-label": "Day",
+      "x-unit": "",
+      "y-unit": "",
+      "position": 4,
+      "width": 12,
+      "module": 1,
+      "filters": [
+
+      ]
+    },
+    {
+      "graph": "number",
+      "title": "Total Active Tickets",
+      "unit": "Tickets",
+      "x-axis": [],
+      "y-axis": [],
+      "data": [
+		[289]
+        
+      ],
+      "x-label": "",
+      "y-label": "",
+      "x-unit": "",
+      "y-unit": "",
+      "position": 5,
+      "width": 6,
+      "module": 1,
+      "filters": [
+
+      ]
+    }
+  ]
+}
